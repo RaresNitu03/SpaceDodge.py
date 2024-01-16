@@ -37,10 +37,3 @@ Pentru a rula codul în IDLE 3.0, urmează aceste instrucțiuni:
   b. În terminal, scrie pip install pygame și apasă Enter pentru a instala biblioteca Pygame necesară pentru acest joc.
 6. Rulează Codul:
   a. În IDLE, alege "Run Module" din meniul "Run" sau apasă F5 pentru a rula codul.
-
-Rularea directă a jocului fără utilizarea codului:
-
-  Pentru a rula jocul, deschideți folderul 'Program_executabil' și executați fișierul 
-'SpaceDodge.exe'. Acest fișier este executabilul principal al jocului și va iniția lansarea jocului. 
-Asigurați-vă că toate resursele necesare sunt în același director pentru o experiență de joc 
-optimă.
